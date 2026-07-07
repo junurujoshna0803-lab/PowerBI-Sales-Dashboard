@@ -26,7 +26,7 @@ An interactive Power BI dashboard developed to analyze sales performance, profit
 
 ## 📸 Dashboard Preview
 
-blob:https://github.com/6e0f8fa0-839d-422b-a5f2-679c3a098d1a
+- dashboard.png
 
 ---
 
