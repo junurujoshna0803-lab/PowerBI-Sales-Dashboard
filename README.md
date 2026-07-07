@@ -1,35 +1,35 @@
-# Power BI Sales Dashboard
+# 📊 Sales Dashboard using Power BI
 
-## Overview
+## 📌 Overview
 
-This project presents a sales dashboard created using Power BI to analyze business performance and generate actionable insights.
+An interactive Power BI dashboard developed to analyze sales performance, profits, customer segments, and regional trends. The dashboard provides actionable business insights through interactive visualizations.
 
-## Tools Used
-
-* Power BI Desktop
-* CSV Dataset
-* Data Visualization
+---
 
 ## Dashboard Features
 
-* Total Sales KPI Card
-* Sales by City Analysis
-* Product-wise Sales Distribution
-* Interactive Visualizations
+- Sales Analysis
+- Profit Analysis
+- Regional Performance
+- Customer Segmentation
+- KPI Cards
 
-## Key Insights
+---
 
-* Analyzed total sales performance
-* Compared sales across cities
-* Identified top-performing products
-* Visualized business trends using dashboards
+## 🛠 Tools Used
 
-## Files Included
+- Power BI
+- Power Query
+- DAX
 
-* Sales_Dashboard.pbix
-* sales_data.csv
-* Dashboard Screenshot
+---
 
-## Author
+## 📸 Dashboard Preview
 
-Junuru Joshna
+(Add dashboard screenshot)
+
+---
+
+## 👩‍💻 Author
+
+**Junuru Joshna**
